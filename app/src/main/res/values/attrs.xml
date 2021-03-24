@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CandlestickChartView">
+        <attr name="cscv_close_color" format="color" />
+        <attr name="cscv_open_color" format="color" />
+        <attr name="cscv_price_line_width" format="dimension" />
+        <attr name="cscv_candle_body_width" format="dimension" />
+    </declare-styleable>
+</resources>
